@@ -28,7 +28,7 @@ protobuf==3.0.0
 ptyprocess==0.5.1
 pycares==3.0.0
 pycparser==2.19
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.1.10
 python-dateutil==2.5.3
 python-gflags==1.5.1
